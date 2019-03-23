@@ -3,7 +3,7 @@
 
 
 
-![](header.png)
+![](HighresScreenshot00012.png)
 
 ## Installation
 
