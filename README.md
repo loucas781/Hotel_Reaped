@@ -10,13 +10,13 @@
 iOS:
 
 ```sh
-https://github.com/loucas781/Hotel_Reaped/releases/tag/iOS
+Download (https://github.com/loucas781/Hotel_Reaped/releases/tag/iOS)
 ```
 
 Demo:
 
 ```sh
-https://github.com/loucas781/Hotel_Reaped/releases/tag/Demo
+Download (https://github.com/loucas781/Hotel_Reaped/releases/tag/Demo)
 ```
 
 ## Installation
