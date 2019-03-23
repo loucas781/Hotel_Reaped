@@ -29,7 +29,7 @@ Windows:
 2) Run Hotel_Reaped.exe
 ```
 
-OS X & Linux:
+MacOS:
 
 ```sh
 Coming Soon
