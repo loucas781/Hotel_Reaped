@@ -5,18 +5,18 @@
 
 ![](HighresScreenshot00012.png)
 
-## Releases
+## Official Releases
 
 iOS:
 
 ```sh
-Download (https://github.com/loucas781/Hotel_Reaped/releases/tag/iOS)
+https://github.com/loucas781/Hotel_Reaped/releases/tag/iOS
 ```
 
 Demo:
 
 ```sh
-Download (https://github.com/loucas781/Hotel_Reaped/releases/tag/Demo)
+https://github.com/loucas781/Hotel_Reaped/releases/tag/Demo
 ```
 
 ## Installation
