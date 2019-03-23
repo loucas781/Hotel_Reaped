@@ -13,7 +13,7 @@ iOS:
 https://github.com/loucas781/Hotel_Reaped/releases/tag/iOS
 ```
 
-Demo:
+Windows Demo:
 
 ```sh
 https://github.com/loucas781/Hotel_Reaped/releases/tag/Demo
