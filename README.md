@@ -5,6 +5,20 @@
 
 ![](HighresScreenshot00012.png)
 
+## Releases
+
+iOS:
+
+```sh
+https://github.com/loucas781/Hotel_Reaped/releases/tag/iOS
+```
+
+Demo:
+
+```sh
+https://github.com/loucas781/Hotel_Reaped/releases/tag/Demo
+```
+
 ## Installation
 
 Windows:
