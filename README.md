@@ -58,7 +58,7 @@ Install iPA through xCode, or use a jailbreak to sign and install (use cydia imp
     * Updated nigt vision brightness
     * Updated night vision length
     * Updated water reflectivity
-* Bugs
+* Bugs*
     * Hotel lighting breaks in the hallway at the start of the level on iOS builds
 
 * 0.16
