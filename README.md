@@ -1,5 +1,5 @@
 # Hotel Reaped
-> Forest or Hotel, either way you're trapped in one or even both.
+> Forest or Hotel, either way you're trapped in one or both.
 
 
 
@@ -58,6 +58,8 @@ Install iPA through xCode, or use a jailbreak to sign and install (use cydia imp
     * Updated nigt vision brightness
     * Updated night vision length
     * Updated water reflectivity
+* Bugs
+    * Hotel lighting breaks in the hallway at the start of the level on iOS builds
 
 * 0.16
     * Updated cull distance for grass to 500
