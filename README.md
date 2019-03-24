@@ -35,11 +35,22 @@ MacOS:
 Coming Soon
 ```
 
+iOS:
+
+```sh
+Install iPA through xCode, or use a jailbreak to sign and install (use cydia impactor)
+```
+
 ## Change Logs
 
 * 0.17
-    * Disabled mobile UI
+    * Disabled mobile UI for PC build
     * Disabled mobile movement controls for PC build
+    * Enabled mbile UI for mobile build
+    * Enabled mobile movement controls for mobile build
+    * Added pause putton mobile HUD
+    * Added text to mobile HUD buttons
+    * Fixed "See power of two in settings" for buttons on UI
     * Added new menu music
     * Fixed / improved lighting (all levels)
     * Fixed lighting auto enhancement
