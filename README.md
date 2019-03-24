@@ -7,16 +7,16 @@
 
 ## Official Releases
 
-iOS:
-
-```sh
-https://github.com/loucas781/Hotel_Reaped/releases/tag/iOS
-```
-
 Windows Demo:
 
 ```sh
 https://github.com/loucas781/Hotel_Reaped/releases/tag/Demo
+```
+
+iOS:
+
+```sh
+https://github.com/loucas781/Hotel_Reaped/releases/tag/iOS
 ```
 
 ## Installation
